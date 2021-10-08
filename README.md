@@ -3,12 +3,12 @@
 ## Overview
 
 * Client is PH and is looking into employee HR data
-* Datasets provided by client are found [here.](https://github.com/nabilram/pewlett-hackard-analysis/tree/main/Data)
+* Datasets provided by client are 5 CSV files with HR data
 * Datapoints of analytic interest and output files:
-    * Retrieve data from various csv sources and join - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/retirement_titles.csv)
-    * Clean data: ensure job titles are most recent - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/unique_titles.csv)
-    * Count the no. of eligible retirees per job title - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/retiring_titles.csv)
-    * Identify employees eligibile for mentorship program - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/mentorship_eligibility.csv)
+    * Retrieve data from various csv sources and join - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Data/retirement_titles.csv)
+    * Clean data: ensure job titles are most recent - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Data/unique_titles.csv)
+    * Count the no. of eligible retirees per job title - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Data/retiring_titles.csv)
+    * Identify employees eligibile for mentorship program - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Results
 
