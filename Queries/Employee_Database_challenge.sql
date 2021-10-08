@@ -22,7 +22,7 @@ INTO unique_titles
 FROM retirement_titles AS rt
 ORDER BY rt.emp_no, rt.to_date DESC;
 
---DELIVERY 1.3
+-- DELIVERY 1.3
 SELECT COUNT(ut.title), ut.title
 INTO retiring_titles
 FROM unique_titles as ut
