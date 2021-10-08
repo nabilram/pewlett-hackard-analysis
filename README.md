@@ -9,4 +9,7 @@
     * Count the no. of eligible per job title - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/retiring_titles.csv)
     * Identify employees eligibile for mentorship program - [csv here.](https://github.com/nabilram/pewlett-hackard-analysis/blob/main/Queries/mentorship_eligibility.csv)
 ## Results
+* There are employees with multiple titles
+    * Resolved by cleaning data: SQL filtering and ordering/sorting
+* 
 ## Summary
