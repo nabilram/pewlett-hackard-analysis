@@ -4,6 +4,8 @@ queries.sql
 schema.sql
 sql_employees.py
 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
