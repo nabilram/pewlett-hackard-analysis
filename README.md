@@ -17,7 +17,7 @@
 * Out of the cleaned employee data Senior Engineers and Senior Staff are most retirement-eligible
 * A knowledge-transfer program must be put in place to ensure contiunity
     * 738 of the Senior Engineers or Senior Staff are eligible for the mentorship program
-    * An additional 831 employees are eligible for the program but do hold a senior position
+    * An additional 831 employees are eligible for the program but DO NOT hold a senior position
 
 ## Summary
 
