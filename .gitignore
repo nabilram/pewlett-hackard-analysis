@@ -4,8 +4,8 @@ queries.sql
 schema.sql
 sql_employees.py
 /Data/departments.csv
-/Data/dept_amp.csv
-/Data/dep_manager.csv
+/Data/dept_emp.csv
+/Data/dept_manager.csv
 /Data/employees.csv
 /Data/salaries.csv
 /Data/titles.csv
