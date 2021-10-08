@@ -12,4 +12,5 @@
 * There are employees with multiple titles
     * Resolved by cleaning data: SQL filtering and ordering/sorting
 * 
+
 ## Summary
